@@ -1,0 +1,29 @@
+{
+  "name": "task-management-server",
+  "version": "1.0.0",
+  "description": "Task Managment App Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AveyBD/task-management-server.git"
+  },
+  "keywords": [
+    "RestAPI",
+    "MongoDB"
+  ],
+  "author": "Debashish D. Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AveyBD/task-management-server/issues"
+  },
+  "homepage": "https://github.com/AveyBD/task-management-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
